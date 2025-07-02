@@ -1,6 +1,6 @@
 /*  Liturgia Diária – widget compacto para Blogger
     (c) domínio público, Adriano & ChatGPT
-    Usa AllOrigins como proxy CORS.
+    Usa AllOrigins como proxy CORS.    
 --------------------------------------------------- */
 (function(){
   const dst = document.currentScript.dataset.target || 'liturgia-hoje';
